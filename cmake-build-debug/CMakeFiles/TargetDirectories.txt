@@ -1,3 +1,0 @@
-C:/Users/Administrator/Documents/学习文件/Cpp_learn/cmake-build-debug/CMakeFiles/Cpp_learn.dir
-C:/Users/Administrator/Documents/学习文件/Cpp_learn/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/Documents/学习文件/Cpp_learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -3,4 +3,9 @@ project(Cpp_learn)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Cpp_learn main.cpp)
+add_executable(Cpp_learn main.cpp
+        Demo/Objection/circle.cpp
+        Demo/Objection/point.cpp
+        Demo/Objection/circle.cpp
+        Demo/Objection/point.cpp)
+
