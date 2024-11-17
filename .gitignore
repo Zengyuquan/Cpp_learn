@@ -1,6 +1,7 @@
-
 *.json
 *.json
 *.cmake
 *.txt
 *.cmake
+*.exe
+*.xml
