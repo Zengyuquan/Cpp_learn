@@ -57,6 +57,22 @@ build CMakeFiles/Cpp_learn.dir/main.cpp.obj: CXX_COMPILER__Cpp_learn_unscanned_D
   TARGET_COMPILE_PDB = CMakeFiles\Cpp_learn.dir\
   TARGET_PDB = Cpp_learn.pdb
 
+build CMakeFiles/Cpp_learn.dir/Demo/Objection/circle.cpp.obj: CXX_COMPILER__Cpp_learn_unscanned_Debug C$:/Users/Administrator/Documents/学习文件/Cpp_learn/Demo/Objection/circle.cpp || cmake_object_order_depends_target_Cpp_learn
+  DEP_FILE = CMakeFiles\Cpp_learn.dir\Demo\Objection\circle.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Cpp_learn.dir
+  OBJECT_FILE_DIR = CMakeFiles\Cpp_learn.dir\Demo\Objection
+  TARGET_COMPILE_PDB = CMakeFiles\Cpp_learn.dir\
+  TARGET_PDB = Cpp_learn.pdb
+
+build CMakeFiles/Cpp_learn.dir/Demo/Objection/point.cpp.obj: CXX_COMPILER__Cpp_learn_unscanned_Debug C$:/Users/Administrator/Documents/学习文件/Cpp_learn/Demo/Objection/point.cpp || cmake_object_order_depends_target_Cpp_learn
+  DEP_FILE = CMakeFiles\Cpp_learn.dir\Demo\Objection\point.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Cpp_learn.dir
+  OBJECT_FILE_DIR = CMakeFiles\Cpp_learn.dir\Demo\Objection
+  TARGET_COMPILE_PDB = CMakeFiles\Cpp_learn.dir\
+  TARGET_PDB = Cpp_learn.pdb
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Cpp_learn
@@ -65,7 +81,7 @@ build CMakeFiles/Cpp_learn.dir/main.cpp.obj: CXX_COMPILER__Cpp_learn_unscanned_D
 #############################################
 # Link the executable Cpp_learn.exe
 
-build Cpp_learn.exe: CXX_EXECUTABLE_LINKER__Cpp_learn_Debug CMakeFiles/Cpp_learn.dir/main.cpp.obj
+build Cpp_learn.exe: CXX_EXECUTABLE_LINKER__Cpp_learn_Debug CMakeFiles/Cpp_learn.dir/main.cpp.obj CMakeFiles/Cpp_learn.dir/Demo/Objection/circle.cpp.obj CMakeFiles/Cpp_learn.dir/Demo/Objection/point.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Cpp_learn.dir
