@@ -1,3 +1,6 @@
 # ninja log v6
-2	900	7527454073326836	CMakeFiles/Cpp_learn.dir/main.cpp.obj	2f95f095631a6b8
-904	1060	7527454082345967	Cpp_learn.exe	6b958b4e02d67f52
+5	622	7594763522324871	CMakeFiles/Cpp_learn.dir/main.cpp.obj	2f95f095631a6b8
+8	599	7594763522354867	CMakeFiles/Cpp_learn.dir/Demo/Objection/22_2-point.cpp.obj	ec9d22c0b05d68c5
+4	68	7594764979107092	Cpp_learn.exe	73438ff88ff56b35
+7	598	7594763522344864	CMakeFiles/Cpp_learn.dir/Demo/Objection/22_1-circle.cpp.obj	df3816eeafa014d7
+3	185	7594765070803629	build.ninja	c408434bc47b3cb2
